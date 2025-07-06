@@ -101,6 +101,6 @@ MongoDB for scalable database support
 ✨ Author
 Made with ❤️ by Krishna Rastogi
 
-🔗 LinkedIn • ✉️ krishna.rastogi@example.com
+🔗 LinkedIn • ✉️ 	https://www.linkedin.com/in/krishna-rastogi-768326282
 
 ⭐ If you like this project, give it a star!
