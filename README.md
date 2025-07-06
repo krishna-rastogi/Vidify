@@ -49,17 +49,17 @@ cd Vidify
 ```
 2. Setup Backend
 ```bash
-cd server
+cd backend
 npm install
-npm start
+nodemon app.js
 ```
 
 4. Setup Frontend
 Open a new terminal:
 ```bash
-cd client
+cd frontend
 npm install
-npm start
+npm run dev
 ```
 
 🔗 The app should now be running at http://localhost:3000 for the client and http://localhost:5000 for the server.
