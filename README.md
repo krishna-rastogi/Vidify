@@ -22,6 +22,13 @@ Welcome to **Vidify** – your one-stop platform for seamless video meetings and
 
 ---
 
+## 🌐 **Live Demo**
+
+🔗 **Frontend:** [Vidify Frontend Deployment URL](https://vidify-fwga.onrender.com)  
+🔗 **Backend:** [Vidify Backend Deployment URL](https://vidifybackend.onrender.com)
+
+---
+
 ## 📂 **Project Structure**
 
 Vidify/
