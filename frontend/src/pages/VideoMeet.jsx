@@ -18,6 +18,7 @@ import ChatIcon from "@mui/icons-material/Chat";
 import Badge from "@mui/material/Badge";
 
 const server_url = import.meta.env.VITE_VIDIFY_URL;
+
 var connections = {};
 const peerConfigConnections = {
   iceServers: [{ urls: "stun:stun.l.google.com:19302" }],
