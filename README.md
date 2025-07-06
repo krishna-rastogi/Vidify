@@ -63,3 +63,44 @@ npm start
 ```
 
 🔗 The app should now be running at http://localhost:3000 for the client and http://localhost:5000 for the server.
+
+💡 Future Enhancements
+📝 Chat feature alongside video
+
+📁 File sharing during meetings
+
+🎨 Improved UI animations
+
+🔒 OAuth-based authentication
+
+🤝 Contributing
+Contributions are welcome!
+
+Fork the repo
+
+Create a new branch (git checkout -b feature-xyz)
+
+Commit your changes (git commit -m 'Add some feature')
+
+Push to the branch (git push origin feature-xyz)
+
+Create a Pull Request
+
+📄 License
+This project is licensed under the MIT License.
+
+🙏 Acknowledgements
+Thanks to:
+
+Socket.io for real-time communication
+
+Material UI for beautiful components
+
+MongoDB for scalable database support
+
+✨ Author
+Made with ❤️ by Krishna Rastogi
+
+🔗 LinkedIn • ✉️ krishna.rastogi@example.com
+
+⭐ If you like this project, give it a star!
