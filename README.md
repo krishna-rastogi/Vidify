@@ -48,14 +48,18 @@ git clone https://github.com/krishna-rastogi/Vidify.git
 cd Vidify
 ```
 2. Setup Backend
+```bash
 cd server
 npm install
 npm start
+```
 
-3. Setup Frontend
+4. Setup Frontend
 Open a new terminal:
+```bash
 cd client
 npm install
 npm start
+```
 
 🔗 The app should now be running at http://localhost:3000 for the client and http://localhost:5000 for the server.
